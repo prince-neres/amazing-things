@@ -1,0 +1,12 @@
+p{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: tomato;
+    transition: 1s
+}

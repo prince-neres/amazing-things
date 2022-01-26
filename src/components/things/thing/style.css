@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+
+.card{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    text-transform: uppercase;
+	background: linear-gradient(to right, #890fcf 0%, #fc5f04 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+img{
+    width: 350px;
+}
+
+p{
+    text-indent: 2em;
+}
+
+hr{
+    margin-top: 50px;
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, rgb(255, 255, 255), transparent);  
+}
